@@ -11,3 +11,17 @@ img{
 .small{
     font-size: smaller;
 }
+#quiz-container {
+    max-width: 600px;
+    margin: 20px auto;}
+.question {
+    margin-bottom: 10px;
+  }
+.options {
+    list-style-type: none;
+    padding: 0;
+  }
+.options label {
+    display: block;
+    margin-bottom: 10px;
+}
